@@ -21,7 +21,7 @@ let package = Package(
         .binaryTarget(
             name: "DMSDK",
             url: "https://swiftcocoafiles.blob.core.windows.net/xcframework/3.5.0/DMSDK-3.5.0.zip",
-            checksum: "0913551e149826282e21f1c5db1df096b706d2dde846e46db7061d25821d4256"
+            checksum: "1721b77f92e8109965f529a75876003481fa3c044e4177b73d25775a20bb0ed3"
         )
     ]
 )
