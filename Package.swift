@@ -20,8 +20,8 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
         .binaryTarget(
             name: "DMSDK",
-            url: "https://swiftcocoafiles.blob.core.windows.net/xcframework/3.5.0/DMSDK-3.5.0.zip",
-            checksum: "1721b77f92e8109965f529a75876003481fa3c044e4177b73d25775a20bb0ed3"
+            url: "https://artifactory.digimarc.net/artifactory/generic/DMSDK/apple-native/3.5.1-beta1/package/DMSDK-Package.zip",
+            checksum: "cb736316cb316276df0231bc28854a20fafc6a38e1675a3d7ec9e8906316aa67"
         )
     ]
 )

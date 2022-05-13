@@ -1,14 +1,14 @@
-## Digimarc Mobile SDK for Apple Platforms
-The Digimarc Mobile SDK (DM SDK) is comprehensive and robust scanning software for Digimarc Barcode (Product Packaging, Thermal Label, Print Media, and Audio) as well as the most common traditional 1D barcodes found in retail and QR codes.
+##Digimarc Mobile SDK for Apple Platforms
+The Digimarc Mobile SDK (DM SDK) is a comprehensive and robust scanning software for Digimarc Barcode (Product Packaging, Thermal Label, Print Media, and Audio) as well as the most common traditional 1D barcodes found in retail & QR codes.
 
-Digimarc Barcode is a novel data carrier that encodes data in media in ways that are generally imperceptible to people, permitting the carrier to be repeated many times over the surface of the enhanced media. It delivers unprecedented ease of use, reliability, and efficiency in identifying the media due to massive mathematical and graphical redundancy.
+Digimarc Barcode is an advanced barcode that can be applied to any established media. It links product packaging, thermal labels, print, or audio to online content when scanned with an enabled device.
+
+Digimarc Barcode is unnoticeable by most people, but mobile devices, computers, inspection system cameras, and many retail barcode scanners — enabled by Digimarc technology — can detect Digimarc Barcodes to drive transactions and activate content.
 
 The Digimarc Mobile SDK also includes support to optionally query the Digimarc Barcode Resolver for additional content and metadata related to the Digimarc-enhanced media your device is seeing and hearing in the world around you through the Digimarc Mobile SDK.
-
-#### Installation
+####Installation
 The Digimarc Mobile SDK (DM SDK) is packaged as a framework (.xcframework). To install, refer to the DM SDK [Installation Guide](installation-guide.html).
-
-#### Minimum Requirements
+####Minimum Requirements
 **IDE**: Xcode 13 or newer
 
 | Deployment Target | Minimum Version | Camera | Microphone | Image Data | Audio Data |

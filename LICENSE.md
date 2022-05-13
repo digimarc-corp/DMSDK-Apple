@@ -1,4 +1,4 @@
-# DIGIMARC® MOBILE SDK END USER LICENSE AGREEMENT
+#DIGIMARC® MOBILE SDK END USER LICENSE AGREEMENT
 
 Between: Digimarc Corporation, an Oregon corporation, having offices at 8500 SW Creekside Place, Beaverton, Oregon 97008, USA (“Digimarc”).
 
@@ -38,7 +38,7 @@ If you have questions concerning this Agreement, please contact Digimarc’s Cus
 
 The Software includes the following third-party components:
 
-### _Zxing_ _(including jai-imageio)_
+###_Zxing_ _(including jai-imageio)_
 
 Zxing:
 
@@ -74,7 +74,7 @@ This software is provided “AS IS,” without a warranty of any kind. ALL EXPRE
 
 You acknowledge that this software is not designed or intended for use in the design, construction, operation or maintenance of any nuclear facility.
 
-### _Yajl_
+###_Yajl_
 
 Copyright 2007-2011, Lloyd Hilaiel.
 
@@ -82,7 +82,7 @@ Permission to use, copy, modify, and/or distribute this software for any purpose
 
 THE SOFTWARE IS PROVIDED “AS IS” AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
-### _Project Ne10_
+###_Project Ne10_
 
 Copyright 2012-2016 ARM Limited and Contributors. All rights reserved.
 
@@ -96,7 +96,7 @@ Neither the name of ARM Limited nor the names of its contributors may be used to
 
 THIS SOFTWARE IS PROVIDED BY ARM LIMITED AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL ARM LIMITED AND CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-### _Material Design Icons_
+###_Material Design Icons_
 
 Copyright Google LLC.
 
@@ -106,7 +106,7 @@ http://www.apache.org/licenses/LICENSE-2.0.
 
 Software distributed under the Apache License is distributed on an “AS IS” BASIS, WITHOUT WARRANTIES OF ANY KIND, either express or implied. See the Apache License for the specific language governing permissions and limitations under the License.
 
-### _Relinker_
+###_Relinker_
 
 Copyright 2015 - 2016 Keepsafe Software Inc.
 
