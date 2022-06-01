@@ -1,4 +1,4 @@
-#DIGIMARC® MOBILE SDK END USER LICENSE AGREEMENT
+# DIGIMARC® MOBILE SDK END USER LICENSE AGREEMENT
 
 Between: Digimarc Corporation, an Oregon corporation, having offices at 8500 SW Creekside Place, Beaverton, Oregon 97008, USA (“Digimarc”).
 
@@ -30,7 +30,7 @@ READ THIS AGREEMENT CAREFULLY BEFORE DOWNLOADING OR USING THE SOFTWARE. YOU ARE 
 
 10. Export Rules. You shall not ship, transfer, or export the Software to, or use the Software in, any country prohibited by the United States Export Administration Act or in violation of any other export laws, restrictions, or regulations (collectively, the “Export Laws”).  You represent and warrant to Digimarc that you are not a citizen of, or otherwise located in, a country that is subject to a U.S. Government embargo, or that has been otherwise designated by the U.S. Government as a “terrorist supporting” country (including Iran, Syria, Sudan, Cuba, and North Korea), and that you are not on any U.S. Government list of prohibited or restricted parties, or otherwise prohibited under the Export Laws from receiving the Software.
 
-11. Miscellaneous. If any provision of this Agreement is determined to be void or unenforceable by a court of competent jurisdiction, every other provision of this Agreement will remain in full force and effect.  This Agreement is governed by the laws of the State of Oregon, USA, excluding its conflict of law provisions.  The state and federal courts of Portland, Oregon, USA have exclusive jurisdiction to resolve all disputes arising out of or relating to this Agreement. You irrevocably waive any objection to the jurisdiction of those courts.The failure of Digimarc to enforce any provision of this Agreement is not a waiver of the right of Digimarcto enforce that provision. Any waiver grantedby Digimarc under this Agreement is effective only if made in a writing signed by Digimarc.  You shall not assign this Agreement to any third party without Digimarc’s prior written consent. Any purported assignment in violation of these terms is void from its inception. Digimarc may assign this Agreement to any third party without your consent.No other person or entity is a third-party beneficiary to this Agreement.
+11. Miscellaneous. If any provision of this Agreement is determined to be void or unenforceable by a court of competent jurisdiction, every other provision of this Agreement will remain in full force and effect.  This Agreement is governed by the laws of the State of Oregon, USA, excluding its conflict of law provisions.  The state and federal courts of Portland, Oregon, USA have exclusive jurisdiction to resolve all disputes arising out of or relating to this Agreement. You irrevocably waive any objection to the jurisdiction of those courts.The failure of Digimarc to enforce any provision of this Agreement is not a waiver of the right of Digimarcto enforce that provision. Any waiver grantedby Digimarc under this Agreement is effective only if made in a writing signed by Digimarc.  You shall not assign this Agreement to any third party without Digimarc’s prior written consent. Any purported assignment in violation of these terms is void from its inception. Digimarc may assign this Agreement to any third party without your consent. No other person or entity is a third-party beneficiary to this Agreement.
 
 12. Entire Agreement; Conflicts. This Agreement and the Terms of Use form the complete agreement between the parties as to its subject matter and supersede all earlier agreements or discussions regarding the Software.  This Agreement may only be modified by a writing signed by Digimarc.  Any conflict between this Agreement and the Terms of Use will be resolved according to the following order of precedence: (a) this Agreement, and (b) the Terms of Use. 
 
@@ -38,7 +38,7 @@ If you have questions concerning this Agreement, please contact Digimarc’s Cus
 
 The Software includes the following third-party components:
 
-###_Zxing_ _(including jai-imageio)_
+### _Zxing_ _(including jai-imageio)_
 
 Zxing:
 
@@ -74,7 +74,7 @@ This software is provided “AS IS,” without a warranty of any kind. ALL EXPRE
 
 You acknowledge that this software is not designed or intended for use in the design, construction, operation or maintenance of any nuclear facility.
 
-###_Yajl_
+### _Yajl_
 
 Copyright 2007-2011, Lloyd Hilaiel.
 
@@ -82,7 +82,7 @@ Permission to use, copy, modify, and/or distribute this software for any purpose
 
 THE SOFTWARE IS PROVIDED “AS IS” AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
-###_Project Ne10_
+### _Project Ne10_
 
 Copyright 2012-2016 ARM Limited and Contributors. All rights reserved.
 
@@ -96,7 +96,7 @@ Neither the name of ARM Limited nor the names of its contributors may be used to
 
 THIS SOFTWARE IS PROVIDED BY ARM LIMITED AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL ARM LIMITED AND CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-###_Material Design Icons_
+### _Material Design Icons_
 
 Copyright Google LLC.
 
@@ -106,7 +106,7 @@ http://www.apache.org/licenses/LICENSE-2.0.
 
 Software distributed under the Apache License is distributed on an “AS IS” BASIS, WITHOUT WARRANTIES OF ANY KIND, either express or implied. See the Apache License for the specific language governing permissions and limitations under the License.
 
-###_Relinker_
+### _Relinker_
 
 Copyright 2015 - 2016 Keepsafe Software Inc.
 
