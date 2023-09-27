@@ -4,7 +4,7 @@ import PackageDescription
 let package = Package(
     name: "DMSDK",
     platforms: [
-        .macOS(.v10_13), .iOS(.v11), .tvOS(.v12), .watchOS(.v4)
+        .macOS(.v10_15), .iOS(.v13)
     ],
     products: [
         // Products define the executables and libraries a package produces, and make them visible to other packages.
@@ -20,8 +20,8 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
         .binaryTarget(
             name: "DMSDK",
-            url: "https://dmrc.io/packages/xcframework/DMSDK/3.6.0/DMSDK-Package.zip",
-            checksum: "6f05e2aaeb700d28f156f28b2e7831b76ce6d514341b7f36f25cf3136cd38f8e"
+            url: "https://dmrc.io/packages/xcframework/DMSDK/3.7.0/DMSDK-Package.zip",
+            checksum: "0b741ed0a813b78fa8d8088ab5ad2b2c5ffe80ccb84482a6c42824f433005ce3"
         )
     ]
 )
