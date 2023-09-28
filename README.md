@@ -9,14 +9,9 @@ The Digimarc Mobile SDK also includes support to optionally query the Digimarc B
 The Digimarc Mobile SDK (DM SDK) is packaged as a framework (.xcframework). To install, refer to the DM SDK [Installation Guide](installation-guide.html).
 
 #### Minimum Requirements
-**IDE**: Xcode 13 or newer
+**IDE**: Xcode 14 or newer
 
 | Deployment Target | Minimum Version | Camera | Microphone | Image Data | Audio Data |
 | :---------------- | :----- | :----- | :--------- | :--------- | :--------- |
-| iOS, iPadOS | 11.0 | Supported | Supported | Supported | Supported |
-| macOS | 10.13.0 (High Sierra) | Supported         | Supported       | Supported       | Supported  |
-| Mac Catalyst | 10.15.0 (Catalina) | **Unsupported** | **Limited \*** | Supported | Supported |
-| watchOS | 4.0 | **Unsupported** | Supported | **Unsupported** | Supported  |
-| tvOS | 12.0 | **Unsupported** | **Unsupported** | Supported | Supported |
-
-> \* Only some Apple capture APIs are supported under Mac Catalyst. Please refer to the DM SDK Audio Reader documentation for details.
+| iOS, iPadOS | 13.0 | Supported | Supported | Supported | Supported |
+| macOS | 10.15.0 (Catalina) | Supported         | Supported       | Supported       | Supported  |
