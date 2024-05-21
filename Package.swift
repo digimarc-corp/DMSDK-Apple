@@ -20,8 +20,8 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
         .binaryTarget(
             name: "DMSDK",
-            url: "https://dmrc.io/packages/xcframework/DMSDK/3.7.3/DMSDK-Package.zip",
-            checksum: "cac8dec13a93ecbd8238c8d919a31c92f7c2144e164ba1735d7915d444d2ba04"
+            url: "https://dmrc.io/packages/xcframework/DMSDK/3.7.4/DMSDK-Package.zip",
+            checksum: "9fa94a9c480a8c4925aa9d803f74bbfaa174738626ff76145dd93cf4ca05595b"
         )
     ]
 )
