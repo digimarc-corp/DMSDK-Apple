@@ -6,7 +6,7 @@ Digimarc Barcode is a novel data carrier that encodes data in media in ways that
 The Digimarc Mobile SDK also includes support to optionally query the Digimarc Barcode Resolver for additional content and metadata related to the Digimarc-enhanced media your device is seeing and hearing in the world around you through the Digimarc Mobile SDK.
 
 #### Installation
-The Digimarc Mobile SDK (DM SDK) is packaged as a framework (.xcframework). To install, refer to the DM SDK [Installation Guide](installation-guide.html).
+The Digimarc Mobile SDK (DM SDK) is packaged as a framework (.xcframework). To install, refer to the DM SDK [Installation Guide](https://landing.digimarc.com/mobile-sdk/documentation/iOS/installation-guide.html).
 
 #### Minimum Requirements
 **IDE**: Xcode 14 or newer
