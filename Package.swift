@@ -21,7 +21,7 @@ let package = Package(
         .binaryTarget(
             name: "DMSDK",
             url: "https://dmrc.io/packages/xcframework/DMSDK/4.1.0/DMSDK-Package.zip",
-            checksum: "27cce13e5daec1c8911fa754a7ba8d8e7c37fa9053ff9c3ba97fbd1f1003ecec"
+            checksum: "59c375717a9cf47ea216419e97f7ac255c23575f0f6158ade89b030d153fcce5"
         )
     ]
 )
